@@ -6,6 +6,8 @@ rename `Unreleased` topic with the new version tag. Finally, create a new `Unrel
 
 ## Unreleased
 
+## v0.0.0
+
 ### Improvements/bugfixes
 - Add ESM support for the client library via `neutralino.mjs`. 
 
